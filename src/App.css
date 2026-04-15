@@ -19,6 +19,16 @@
   padding: 6px 10px;
 }
 
+.mode-badge {
+  display: inline-block;
+  margin: 8px 0 0;
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  color: #854d0e;
+  background: #fef3c7;
+}
+
 .hero h1 {
   margin: 12px 0 8px;
   font-size: 34px;
